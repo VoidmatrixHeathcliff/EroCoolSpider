@@ -29,6 +29,7 @@
 |      `open_gallery.bat`       | 打开指定名称的图集 |
 
 ### 注意  
-由于 BeautifulSoup 中使用了 `lxml` 解析，未安装相关库可能导致 “获取网页原始信息错误！” 的异常报错，请先安装 [相关库](https://www.lfd.uci.edu/~gohlke/pythonlibs/#lxml) 再进行爬取
+由于 BeautifulSoup 中使用了 `lxml` 解析，未安装相关库可能导致 “获取网页原始信息错误！” 的报错  
+请先安装 [lxml 库](https://www.lfd.uci.edu/~gohlke/pythonlibs/#lxml) 再进行爬取
 
 *由于网站地址变化不定，请在爬取失败时提交 issue 或发送邮件到 Voidmatrix@qq.com 通知作者*
